@@ -1,7 +1,7 @@
 # oss-audit-24BSA10303-
 
 # Open Source Software Audit Project
-This report is authored by Priyansh Bhatt(Registration Number: 24BCY10077), and provides a comprehensive audit of the Linux Kernel as a cornerstone of open-source software.
+This report is authored by Vedansh Srivastava(Registration Number: 24BSA10303), and provides a comprehensive audit of the Linux Kernel as a cornerstone of open-source software.
 
 ## Student Details
 
